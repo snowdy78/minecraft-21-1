@@ -1,4 +1,5 @@
 world*
 lib*
+*log*
 versions
-logs*
+minecraft_server*.jar
